@@ -5,11 +5,6 @@
 <dependency>
     <groupId>top.isopen.commons</groupId>
     <artifactId>logging</artifactId>
-    <version>1.0</version>
-</dependency>
-<dependency>
-    <groupId>ch.qos.logback</groupId>
-    <artifactId>logback-classic</artifactId>
-    <version>1.4.5</version>
+    <version>0.1.0</version>
 </dependency>
 ```
